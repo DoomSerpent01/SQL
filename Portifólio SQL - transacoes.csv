@@ -1,0 +1,303 @@
+transacao_id,cliente_id,nome_cliente,data_transacao,hora_transacao,valor_transacao,tipo_transacao,canal,metodo,destinatario,status,motivo_detalhe,device
+T6Y2U8I4,388,Julia Gomes,2026-09-18,16:20:55,420,Cartão de Crédito,Presencial,Cartão,Posto Ipiranga,Negada,Cartão bloqueado,
+L1K2J3H5,390,Lucas Fernandes,2026-09-16,08:05:12,420,Cartão de Crédito,Presencial,Cartão,Restaurante Saboroso,Negada,Senha incorreta,
+V1C2X3Z4,350,Ana Silva,2026-09-18,19:10:05,"399,99",Cartão de Crédito,Online,Device,Shopee,Aprovada,Sucesso,a9283d9gn0sakfadm
+Y5U1I9O3,392,Eduardo Pereira,2026-09-17,13:40:15,350,Pix,Online,Device,Mercado Aurora,Aprovada,Sucesso,q910283910amks019
+N1M2K3J4,395,Olivia Rocha,2026-09-17,15:22:30,350,Cartão de Crédito,Presencial,Cartão,Supermercado Extra,Negada,Falta de saldo,
+J1K3L5Z7,366,Helena Oliveira,2026-09-16,14:25:30,320,Cartão de Crédito,Presencial,Cartão,Supermercado Extra,Negada,Senha incorreta,
+H5G6F7D8,370,Bruno Souza,2026-09-18,07:05:10,315,Cartão de Crédito,Presencial,Cartão,Supermercado Extra,Negada,Senha incorreta,
+T1Y2U3I4,375,Mariana Ribeiro,2026-09-18,14:10:05,"299,9",Cartão de Crédito,Online,Device,Kabum,Aprovada,Sucesso,c910283910amkz912
+C4M9K3L2,400,Fernanda Lima,2026-09-16,08:45:12,250,Cartão de Crédito,Presencial,Cartão,Supermercado Extra,Negada,Senha incorreta,
+Z9X8C7V7,382,Igor Machado,2026-09-16,13:11:11,250,Cartão de Crédito,Presencial,Cartão,Supermercado Extra,Negada,Falta de saldo,
+T1Y2U3I5,392,Eduardo Pereira,2026-09-18,13:20:55,210,Cartão de Crédito,Online,Device,Shopee,Aprovada,Sucesso,q910283910amks019
+M5N2B8V4,380,Karen Alves,2026-09-16,20:30:45,185,Cartão de Crédito,Presencial,Cartão,Supermercado Extra,Negada,Senha incorreta,
+E1R2T3Y5,370,Bruno Souza,2026-09-18,18:45:15,180,Cartão de Crédito,Presencial,Cartão,Restaurante Saboroso,Negada,Senha incorreta,
+Z1X2C3V5,382,Igor Machado,2026-09-17,10:45:33,180,Cartão de Débito,Presencial,Cartão,Supermercado Extra,Aprovada,Sucesso,
+A2S3D4F5,366,Helena Oliveira,2026-09-16,18:30:22,150,Cartão de Débito,Presencial,Cartão,Supermercado Extra,Aprovada,Sucesso,
+G9H8J7K6,351,Daniela Costa,2026-09-18,10:15:40,150,Cartão de Débito,Presencial,Cartão,Supermercado Extra,Aprovada,Sucesso,
+M1N2B3V5,399,Carlos Eduardo,2026-09-17,18:45:33,140,Pix,Presencial,Cartão,Camila Nunes,Aprovada,Sucesso,
+A9F4B2X1,350,Ana Silva,2026-09-18,14:32:10,"125,5",Cartão de Crédito,Online,Device,Amazon.com,Aprovada,Sucesso,a9283d9gn0sakfadm
+T2Y4U6I8,395,Olivia Rocha,2026-09-16,19:15:25,125,Pix,Online,Device,Lucas Andrade,Aprovada,Sucesso,w910283910amkz912
+E1R2T3Y4,351,Daniela Costa,2026-09-18,12:00:00,120,Pix,Online,Device,Juliana Mendes,Aprovada,Sucesso,f819203ka012lsak9
+Q1A2Z3W4,399,Carlos Eduardo,2026-09-18,20:45:10,120,Cartão de Crédito,Presencial,Cartão,Restaurante Saboroso,Aprovada,Sucesso,
+D9F8G7H7,350,Ana Silva,2026-09-17,15:05:15,120,Pix,Presencial,Cartão,Larissa Costa,Aprovada,Sucesso,
+B1N2M3L5,390,Lucas Fernandes,2026-09-16,13:50:10,115,Cartão de Débito,Presencial,Cartão,Supermercado Extra,Aprovada,Sucesso,
+Z1X2C3V4,399,Carlos Eduardo,2026-09-17,19:45:33,110,Pix,Presencial,Cartão,Loja ByteMix,Aprovada,Sucesso,
+B5N6M7L9,399,Carlos Eduardo,2026-09-18,19:05:10,95,Cartão de Crédito,Presencial,Cartão,Restaurante Saboroso,Aprovada,Sucesso,
+P0W3E5R7,350,Ana Silva,2026-09-16,18:22:30,"89,9",Cartão de Débito,Presencial,Cartão,Farmácia Pague Menos,Negada,Falta de saldo,
+G5F6D7S8,375,Mariana Ribeiro,2026-09-18,11:55:01,"89,9",Cartão de Crédito,Online,Device,Amazon.com,Aprovada,Sucesso,c910283910amkz912
+B5G6Y7H8,351,Daniela Costa,2026-09-18,12:05:45,"89,9",Pix,Online,Device,Larissa Costa,Aprovada,Sucesso,f819203ka012lsak9
+X5C6V7B8,400,Fernanda Lima,2026-09-16,13:55:40,89,Pix,Online,Device,Renata Souza,Aprovada,Sucesso,r910283910amkz912
+P9O8I7U7,355,Nicolas Martins,2026-09-17,16:22:30,89,Cartão de Débito,Presencial,Cartão,Posto Ipiranga,Negada,Senha incorreta,
+W3E4R5T6,355,Nicolas Martins,2026-09-16,11:11:11,85,Cartão de Débito,Online,Device,Amazon.com,Aprovada,Sucesso,z901823mk102lsak0
+X2C4V6B8,399,Carlos Eduardo,2026-09-17,11:10:15,85,Pix,Online,Device,Felipe Rocha,Aprovada,Sucesso,e910283910amks019
+Q1W2E3R4,399,Carlos Eduardo,2026-09-17,13:40:15,"75,5",Pix,Presencial,Cartão,Beatriz Martins,Aprovada,Sucesso,
+V5B6N7M8,380,Karen Alves,2026-09-17,12:45:30,65,Pix,Presencial,Cartão,Casa do Café Central,Aprovada,Sucesso,
+Y5U6I7O8,366,Helena Oliveira,2026-09-17,17:40:15,65,Pix,Presencial,Cartão,Thiago Oliveira,Aprovada,Sucesso,
+E1R2T3Y6,395,Olivia Rocha,2026-09-18,11:00:00,65,Pix,Presencial,Cartão,Renata Souza,Aprovada,Sucesso,
+M1N2B3V4,382,Igor Machado,2026-09-17,20:45:33,60,Pix,Online,Device,Juliana Mendes,Aprovada,Sucesso,b910283910amkz912
+O5P6A7S9,392,Eduardo Pereira,2026-09-16,22:20:50,60,Cartão de Crédito,Online,Device,Ifood,Aprovada,Sucesso,q910283910amks019
+A9S8D7F6,380,Karen Alves,2026-09-17,19:45:00,55,Cartão de Débito,Presencial,Cartão,Posto Ipiranga,Aprovada,Sucesso,
+V4C5X6Z7,380,Karen Alves,2026-09-16,19:40:15,55,Pix,Presencial,Cartão,Rafael Almeida,Aprovada,Sucesso,
+T5Y6U7I9,350,Ana Silva,2026-09-18,21:20:55,55,Pix,Online,Device,Petshop Ponto Verde,Aprovada,Sucesso,a9283d9gn0sakfadm
+O5P6A7S8,366,Helena Oliveira,2026-09-16,11:20:50,50,Pix,Presencial,Cartão,Rafael Almeida,Aprovada,Sucesso,
+H7B2M9P5,351,Daniela Costa,2026-09-18,14:14:22,50,Pix,Presencial,Cartão,Renata Souza,Aprovada,Sucesso,
+V1C2X3Z5,388,Julia Gomes,2026-09-18,12:10:05,"49,9",Pix,Online,Device,Renata Souza,Aprovada,Sucesso,n910283910amks019
+W3E4R5T7,350,Ana Silva,2026-09-16,21:11:11,"45,9",Pix,Online,Device,Beatriz Martins,Aprovada,Sucesso,a9283d9gn0sakfadm
+X7T1M4Q8,399,Carlos Eduardo,2026-09-18,12:05:44,45,Pix,Presencial,Cartão,Oficina Nova Rota,Aprovada,Sucesso,
+K9J8H7G6,350,Ana Silva,2026-09-16,07:22:45,45,Cartão de Débito,Presencial,Cartão,Supermercado Extra,Aprovada,Sucesso,
+M5N2B8V3,380,Karen Alves,2026-09-16,12:30:45,45,Pix,Presencial,Cartão,Beatriz Martins,Aprovada,Sucesso,
+Q1W3E5R7,350,Ana Silva,2026-09-18,08:30:10,45,Cartão de Débito,Presencial,Cartão,Posto Ipiranga,Aprovada,Sucesso,
+P1O2I3U5,355,Nicolas Martins,2026-09-17,14:10:05,45,Cartão de Débito,Presencial,Cartão,Farmácia Pague Menos,Aprovada,Sucesso,
+P1O2I3U6,400,Fernanda Lima,2026-09-16,12:22:45,45,Cartão de Débito,Presencial,Cartão,Farmácia Pague Menos,Aprovada,Sucesso,
+J1K2L3Z5,382,Igor Machado,2026-09-18,19:15:20,45,Cartão de Débito,Presencial,Cartão,Posto Ipiranga,Aprovada,Sucesso,
+F1E2D3C4,382,Igor Machado,2026-09-16,13:20:00,"35,9",Pix,Presencial,Cartão,Beatriz Martins,Aprovada,Sucesso,
+D9F8G7H6,399,Carlos Eduardo,2026-09-17,09:05:15,"35,5",Cartão de Débito,Presencial,Cartão,Farmácia Pague Menos,Aprovada,Sucesso,
+G5F6D7S9,375,Mariana Ribeiro,2026-09-18,19:55:01,35,Pix,Online,Device,Marina Lopes,Aprovada,Sucesso,c910283910amkz912
+Z9X8C7V6,400,Fernanda Lima,2026-09-16,15:11:11,25,Cartão de Débito,Presencial,Cartão,Padaria do Zé,Negada,Senha incorreta,
+N9M8Q7W6,382,Igor Machado,2026-09-17,20:10:30,25,Cartão de Débito,Presencial,Cartão,Posto Ipiranga,Negada,Falta de saldo,
+K9J8H7G5,361,Gabriel Santos,2026-09-16,07:22:45,25,Cartão de Débito,Presencial,Cartão,Padaria do Zé,Aprovada,Sucesso,
+Z5X4C3V3,355,Nicolas Martins,2026-09-18,08:15:30,25,Pix,Presencial,Cartão,Rafael Almeida,Aprovada,Sucesso,
+Z5X4C3V2,350,Ana Silva,2026-09-18,21:15:30,"19,9",Pix,Online,Device,Livraria Horizonte,Aprovada,Sucesso,a9283d9gn0sakfadm
+Q1W2E3R5,392,Eduardo Pereira,2026-09-17,15:40:15,"18,9",Cartão de Débito,Presencial,Cartão,Padaria do Zé,Aprovada,Sucesso,
+P1O2I3U4,361,Gabriel Santos,2026-09-16,10:22:45,"18,5",Cartão de Débito,Presencial,Cartão,Farmácia Pague Menos,Aprovada,Sucesso,
+H7B2M9P4,351,Daniela Costa,2026-09-18,08:14:22,"15,9",Cartão de Débito,Presencial,Cartão,Padaria do Zé,Aprovada,Sucesso,
+J5N8B2V1,382,Igor Machado,2026-09-17,21:10:05,15,Pix,Online,Device,Lucas Andrade,Aprovada,Sucesso,b910283910amkz912
+Q9W8E7R6,355,Nicolas Martins,2026-09-17,16:40:25,15,Cartão de Débito,Presencial,Cartão,Padaria do Zé,Aprovada,Sucesso,
+Q3W5E7R0,395,Olivia Rocha,2026-09-17,09:45:10,15,Cartão de Débito,Presencial,Cartão,Padaria do Zé,Aprovada,Sucesso,
+R9F8V7T6,361,Gabriel Santos,2026-09-17,18:10:20,14,Cartão de Débito,Presencial,Cartão,Padaria do Zé,Aprovada,Sucesso,
+L2K8J4H6,375,Mariana Ribeiro,2026-09-16,10:30:22,"12,5",Cartão de Débito,Presencial,Cartão,Padaria do Zé,Negada,Senha incorreta,
+D2F4G6H8,375,Mariana Ribeiro,2026-09-18,16:05:45,"12,5",Cartão de Débito,Presencial,Cartão,Padaria do Zé,Negada,Senha incorreta,
+A1S2D3F5,375,Mariana Ribeiro,2026-09-18,08:30:22,"12,5",Cartão de Débito,Presencial,Cartão,Padaria do Zé,Negada,Senha incorreta,
+U5I6O7P9,380,Karen Alves,2026-09-16,14:30:15,"12,5",Cartão de Débito,Presencial,Cartão,Padaria do Zé,Aprovada,Sucesso,
+P9O8I7U6,395,Olivia Rocha,2026-09-17,14:22:30,12,Cartão de Débito,Presencial,Cartão,Farmácia Pague Menos,Negada,Falta de saldo,
+N9M8Q7W7,361,Gabriel Santos,2026-09-17,14:10:30,12,Pix,Presencial,Cartão,Lucas Andrade,Aprovada,Sucesso,
+U6I7O8P9,361,Gabriel Santos,2026-09-16,15:30:20,"9,9",Pix,Presencial,Cartão,Bruno Almeida,Aprovada,Sucesso,
+T1Y2U3I6,366,Helena Oliveira,2026-09-18,07:10:05,"9,9",Pix,Presencial,Cartão,Thiago Oliveira,Aprovada,Sucesso,
+M8N7B6V5,350,Ana Silva,2026-09-18,11:15:00,"8,5",Cartão de Débito,Presencial,Cartão,Padaria do Zé,Aprovada,Sucesso,
+VOB9XVAM,380,Karen Alves,2026-09-23,20:40:56,"636,99",Boleto,Presencial,Cartão,Farmácia Pague Menos,Aprovada,Sucesso,
+QGT66VDR,405,Camila Almeida,2026-09-17,21:11:40,602,Boleto,Online,Device,Posto Ipiranga,Negada,Dispositivo não cadastrado,q910283910amks019
+7SNA4DQ1,423,Natalia Ramos,2026-09-21,03:35:34,"537,9",Cartão de Crédito,Online,Device,Posto Ipiranga,Negada,Dispositivo não cadastrado,ahrsc33xzdql3qn4
+WHEZWGJJ,370,Bruno Souza,2026-09-21,21:40:02,"589,9",Cartão de Crédito,Presencial,Cartão,Netflix,Aprovada,Sucesso,
+16FW366S,400,Fernanda Lima,2026-09-18,04:53:22,"199,49",Cartão de Crédito,Online,Device,Carrefour,Aprovada,Sucesso,r910283910amkz912
+1GHZN6EO,423,Natalia Ramos,2026-09-17,20:01:19,"355,99",Cartão de Débito,Presencial,Cartão,Supermercado Extra,Negada,Cartão bloqueado,
+PF8B18VV,401,Amanda Barbosa,2026-09-15,20:46:14,"92,9",Cartão de Débito,Online,Device,Kabum,Aprovada,Sucesso,k82f91m3p0slq19a2
+8G4V5BSI,420,Lucas Barros,2026-09-19,10:39:19,"328,99",Cartão de Débito,Presencial,Cartão,Kabum,Negada,Cartão bloqueado,
+F9SYIKTZ,447,Sabrina Duarte,2026-09-23,09:02:54,462,Pix,Online,Device,Boutique Vila Nova,Aprovada,Sucesso,p190283910amkz912
+WR2BRYVR,434,Eduardo Melo,2026-09-18,05:28:26,"499,49",Pix,Online,Device,Rafael Almeida,Aprovada,Sucesso,v190283910amks019
+FYL1CPP5,438,Samuel Carvalho,2026-09-18,22:17:03,"640,49",Cartão de Crédito,Presencial,Cartão,Shopee,Aprovada,Sucesso,
+P9MTWDOX,404,Thiago Rocha,2026-09-23,20:32:33,"585,49",Cartão de Crédito,Presencial,Cartão,Steam,Aprovada,Sucesso,
+SE6B24O7,420,Lucas Barros,2026-09-16,10:10:20,"850,49",Cartão de Crédito,Presencial,Cartão,Posto Ipiranga,Aprovada,Sucesso,
+BF9ZBNON,441,Isadora Franco,2026-09-19,16:55:18,"90,9",Cartão de Débito,Online,Device,Kabum,Negada,Dispositivo não cadastrado,59rmsfwgsk0d0o2m
+PW8MLEI3,425,Mariana Lima,2026-09-16,17:36:44,463,Cartão de Crédito,Presencial,Cartão,Mercado Livre,Aprovada,Sucesso,
+04WMNG01,418,Felipe Nunes,2026-09-23,01:45:01,889,Cartão de Crédito,Online,Device,Posto Ipiranga,Negada,Dispositivo não cadastrado,f910283910amkz912
+7RXZWVAP,395,Olivia Rocha,2026-09-18,20:39:45,"644,99",Boleto,Online,Device,Carrefour,Aprovada,Sucesso,w910283910amkz912
+4EWK80F6,448,Guilherme Pinto,2026-09-17,12:44:11,872,Cartão de Débito,Online,Device,Supermercado Extra,Aprovada,Sucesso,a290283910amks019
+SISA2EKQ,392,Eduardo Pereira,2026-09-19,23:56:20,"916,99",Cartão de Crédito,Online,Device,Amazon,Negada,Dispositivo não cadastrado,kqjpk3ugggy4cpms
+3KWV7KKN,448,Guilherme Pinto,2026-09-22,13:37:25,947,Cartão de Crédito,Online,Device,Magazine Luiza,Aprovada,Sucesso,a290283910amks019
+5LB0X646,390,Lucas Fernandes,2026-09-20,05:18:05,"830,99",Cartão de Crédito,Presencial,Cartão,Drogasil,Aprovada,Sucesso,
+JR2O1P60,434,Eduardo Melo,2026-09-15,21:20:55,"796,99",Pix,Presencial,Cartão,Larissa Costa,Aprovada,Sucesso,
+YKAN8KWG,405,Camila Almeida,2026-09-15,13:10:28,767,Cartão de Crédito,Online,Device,Farmácia Pague Menos,Negada,Dispositivo não cadastrado,63n9jdu7knavd1mm
+YL907WZT,432,Marcelo Nascimento,2026-09-23,19:47:34,"166,49",Pix,Online,Device,Felipe Rocha,Negada,Dispositivo não cadastrado,1l2im1krivf4o6el
+5XC8DBT0,450,Murilo Ramos,2026-09-23,21:33:47,306,Pix,Online,Device,Camila Nunes,Aprovada,Sucesso,d290283910amks019
+ZLL9GXWN,418,Felipe Nunes,2026-09-17,01:29:04,294,Pix,Online,Device,Eletronix Curitiba,Aprovada,Sucesso,u910283910amks019
+G48TCE92,450,Murilo Ramos,2026-09-21,01:00:00,"661,99",Pix,Online,Device,Renata Souza,Negada,Dispositivo não cadastrado,c910283910amkz912
+CXFDER9V,426,Caio Souza,2026-09-23,15:40:43,918,Cartão de Crédito,Presencial,Cartão,Mercado Livre,Aprovada,Sucesso,
+SYFHKNAZ,412,Matheus Correia,2026-09-23,13:20:20,"386,99",Cartão de Débito,Online,Device,Supermercado Extra,Aprovada,Sucesso,q910283910amks019
+RZB5AIT8,407,Vanessa Carvalho,2026-09-21,06:18:14,"278,49",Pix,Online,Device,Thiago Oliveira,Aprovada,Sucesso,c910283910amks012
+EVVVQMAO,407,Vanessa Carvalho,2026-09-21,01:18:13,"797,99",Cartão de Crédito,Presencial,Cartão,Steam,Aprovada,Sucesso,
+3ZXG3Z9J,449,Milena Medeiros,2026-09-17,13:18:30,"713,99",Boleto,Online,Device,Netflix,Negada,Dispositivo não cadastrado,z87zj7yjkbtou1ij
+W345GQXK,423,Natalia Ramos,2026-09-22,21:13:49,"182,9",Pix,Online,Device,Lucas Andrade,Aprovada,Sucesso,s910283910amkz912
+AMD2W8CH,411,Patricia Teixeira,2026-09-22,16:39:15,"421,49",Cartão de Débito,Online,Device,Posto Ipiranga,Negada,Dispositivo não cadastrado,pbd2vhxgw6ejmzds
+U88PJTT8,414,Diego Dias,2026-09-20,06:40:20,651,Cartão de Débito,Online,Device,Mercado Livre,Aprovada,Sucesso,e910283910amks019
+PT1JF88Y,380,Karen Alves,2026-09-19,17:04:53,"291,9",Cartão de Débito,Presencial,Cartão,Posto Ipiranga,Aprovada,Sucesso,
+WEFB4UNN,429,Carolina Pereira,2026-09-22,02:33:38,"156,99",Pix,Presencial,Cartão,Rafael Almeida,Aprovada,Sucesso,
+G57GR3X0,408,Rodrigo Ribeiro,2026-09-23,11:53:32,"915,49",Cartão de Débito,Online,Device,Posto Ipiranga,Aprovada,Sucesso,v91028391ak0291am
+V7GF7J7F,400,Fernanda Lima,2026-09-20,00:13:39,"640,49",Cartão de Crédito,Online,Device,Farmácia Pague Menos,Aprovada,Sucesso,r910283910amkz912
+2OLH98CY,425,Mariana Lima,2026-09-18,09:40:08,"144,99",Cartão de Débito,Online,Device,Uber,Aprovada,Sucesso,f910283910amkz912
+WG9SKAM7,436,Victor Cunha,2026-09-22,07:06:05,822,Boleto,Presencial,Cartão,Steam,Aprovada,Sucesso,
+PUEQ9QVC,446,Arthur Soares,2026-09-22,19:43:30,116,Cartão de Débito,Online,Device,Mercado Livre,Negada,CVV incorreto,o190283910amks019
+WASQ0YTW,418,Felipe Nunes,2026-09-20,00:36:28,"175,9",Pix,Online,Device,Padaria Bela Manhã,Negada,Dispositivo não cadastrado,0tdil3iqij9a64ob
+X5KENV5A,422,Gabriel Barbosa,2026-09-17,10:30:44,"371,49",Cartão de Crédito,Presencial,Cartão,Drogasil,Aprovada,Sucesso,
+O6TKJ2R2,434,Eduardo Melo,2026-09-17,07:18:16,461,Pix,Presencial,Cartão,Larissa Costa,Negada,Cartão bloqueado,
+YGPLFBVP,417,Aline Moreira,2026-09-21,08:34:55,"34,49",Pix,Online,Device,Felipe Rocha,Aprovada,Sucesso,y910283910amkz912
+QLTEVZ0L,431,Jessica Alves,2026-09-22,22:36:41,"371,49",Cartão de Crédito,Presencial,Cartão,Kabum,Aprovada,Sucesso,
+TYFZJ5YO,446,Arthur Soares,2026-09-20,02:34:51,229,Cartão de Crédito,Online,Device,Kabum,Aprovada,Sucesso,o190283910amks019
+4WF3RWN3,411,Patricia Teixeira,2026-09-22,20:02:52,116,Cartão de Crédito,Online,Device,iFood,Negada,Dispositivo não cadastrado,u910283910amks019
+CWDXHUV0,419,Fernanda Monteiro,2026-09-16,21:31:49,"242,49",Cartão de Crédito,Presencial,Cartão,Supermercado Extra,Negada,Senha incorreta,
+8X78ZSMD,443,Debora Marques,2026-09-22,12:15:20,384,Pix,Online,Device,Beatriz Martins,Aprovada,Sucesso,y190283910amkz912
+L7E5T9FI,401,Amanda Barbosa,2026-09-21,18:43:10,"704,5",Pix,Presencial,Cartão,Rafael Almeida,Aprovada,Sucesso,
+4LGKIZIJ,429,Carolina Pereira,2026-09-18,09:17:41,"666,9",Boleto,Presencial,Cartão,Seguradora Nacional,Aprovada,Sucesso,
+FBA9KY87,435,Tatiana Reis,2026-09-21,18:43:10,92,Pix,Online,Device,Studio Move,Aprovada,Sucesso,b190283910amkz912
+8AAFL8L2,390,Lucas Fernandes,2026-09-23,13:00:13,"560,49",Pix,Presencial,Cartão,Beatriz Martins,Aprovada,Sucesso,
+5GYPGKV1,440,Igor Martins,2026-09-20,11:42:25,281,Boleto,Presencial,Cartão,Concessionária de Água,Aprovada,Sucesso,
+40Z6AZ4H,449,Milena Medeiros,2026-09-18,14:43:19,"612,9",Cartão de Débito,Online,Device,Supermercado Extra,Negada,Limite excedido,s290283910amkz912
+S138VSAW,414,Diego Dias,2026-09-23,10:19:22,"78,9",Pix,Presencial,Cartão,Pedro Henrique,Aprovada,Sucesso,
+OKD9NIBS,402,Rafael Lima,2026-09-22,20:06:05,"427,5",Pix,Online,Device,Felipe Rocha,Negada,Dispositivo não cadastrado,n910283910amks019
+PS6FCKFK,449,Milena Medeiros,2026-09-18,16:30:12,735,Pix,Online,Device,Camila Nunes,Aprovada,Sucesso,s290283910amkz912
+8YVA99SM,445,Raquel Andrade,2026-09-18,18:32:42,"294,49",Boleto,Presencial,Cartão,Seguradora Nacional,Aprovada,Sucesso,
+4WHSJ4JK,390,Lucas Fernandes,2026-09-22,10:24:32,"256,99",Cartão de Crédito,Presencial,Cartão,Restaurante Saboroso,Aprovada,Sucesso,
+297UTKQA,430,Daniel Rodrigues,2026-09-21,20:22:04,611,Cartão de Crédito,Online,Device,Kabum,Negada,Dispositivo não cadastrado,m190283910amkz912
+0FGCG2EO,421,Bianca Freitas,2026-09-18,11:54:02,"79,9",Pix,Online,Device,Mercado Bom Vizinho,Aprovada,Sucesso,p910283910amkz912
+P62ZGE2D,390,Lucas Fernandes,2026-09-23,07:41:31,"196,49",Cartão de Crédito,Presencial,Cartão,Kabum,Aprovada,Sucesso,
+MTCCE0EF,445,Raquel Andrade,2026-09-17,18:26:08,383,Cartão de Débito,Presencial,Cartão,Padaria Central,Aprovada,Sucesso,
+11I2AGQ0,430,Daniel Rodrigues,2026-09-19,07:47:11,"357,5",Pix,Online,Device,Rafael Almeida,Negada,Limite excedido,l910283910amks019
+1TLNL2LQ,440,Igor Martins,2026-09-16,18:42:13,"573,99",Cartão de Crédito,Online,Device,Shopee,Negada,Dispositivo não cadastrado,p190283910amkz912
+5M0EZAO7,388,Julia Gomes,2026-09-22,17:57:45,"395,5",Cartão de Débito,Presencial,Cartão,Petz,Aprovada,Sucesso,
+WVMGVA89,428,Bruno Oliveira,2026-09-17,20:38:01,453,Cartão de Crédito,Online,Device,Shopee,Aprovada,Sucesso,j910283910amks019
+IMUA70U1,355,Nicolas Martins,2026-09-21,18:44:10,"726,5",Pix,Presencial,Cartão,Rafael Almeida,Negada,Limite excedido,
+P2T2TMSF,416,Vinicius Fernandes,2026-09-22,13:43:27,"403,9",Cartão de Débito,Online,Device,Padaria Central,Aprovada,Sucesso,t910283910amks019
+C3UZQYT8,350,Ana Silva,2026-09-23,09:31:10,"442,9",Pix,Online,Device,Camila Nunes,Aprovada,Sucesso,a9283d9gn0sakfadm
+XUYRF17B,395,Olivia Rocha,2026-09-23,09:29:10,"148,9",Pix,Presencial,Cartão,Camila Nunes,Aprovada,Sucesso,
+ZAMZGSI9,431,Jessica Alves,2026-09-21,18:37:45,"517,49",Cartão de Débito,Presencial,Cartão,Mercado São José,Aprovada,Sucesso,
+ATN5JZ48,439,Luana Gomez,2026-09-21,06:15:52,"178,9",Cartão de Débito,Presencial,Cartão,Supermercado Extra,Aprovada,Sucesso,
+HYDX44AP,412,Matheus Correia,2026-09-18,12:18:50,475,Pix,Online,Device,Flor & Casa,Negada,Chave Pix inválida,q910283910amks019
+IZ7CU482,444,Henrique Santana,2026-09-16,07:30:00,491,Cartão de Crédito,Online,Device,iFood,Aprovada,Sucesso,u190283910amks019
+E285AXM2,413,Beatriz Cavalcanti,2026-09-22,15:54:09,299,Pix,Online,Device,Juliana Mendes,Aprovada,Sucesso,w910283910amkz912
+UCHBW6U9,421,Bianca Freitas,2026-09-22,12:15:20,"609,99",Pix,Online,Device,Beatriz Martins,Aprovada,Sucesso,p910283910amkz912
+TRFI6OKW,441,Isadora Franco,2026-09-23,09:32:10,357,Pix,Online,Device,Camila Nunes,Negada,Dispositivo não cadastrado,w910283910amkz912
+NJINP55V,431,Jessica Alves,2026-09-21,10:34:47,40,Cartão de Crédito,Online,Device,iFood,Aprovada,Sucesso,z190283910amkz912
+CURLC4GW,415,Leticia Castro,2026-09-18,23:24:26,"737,49",Cartão de Crédito,Presencial,Cartão,Restaurante Saboroso,Aprovada,Sucesso,
+OYT4AMBE,395,Olivia Rocha,2026-09-22,16:30:56,"753,9",Pix,Online,Device,Bruno Almeida,Negada,Dispositivo não cadastrado,b491a82m19sklp029
+2E3JTH8X,380,Karen Alves,2026-09-21,20:55:18,88,Pix,Presencial,Cartão,Larissa Costa,Aprovada,Sucesso,
+QPEQTOJA,431,Jessica Alves,2026-09-16,09:36:31,"574,9",Cartão de Crédito,Presencial,Cartão,Amazon.com,Aprovada,Sucesso,
+K1NF1LER,429,Carolina Pereira,2026-09-23,12:30:01,787,Pix,Presencial,Cartão,Pedro Henrique,Aprovada,Sucesso,
+J88GXX9C,412,Matheus Correia,2026-09-18,06:43:08,"806,5",Cartão de Débito,Presencial,Cartão,Supermercado Extra,Aprovada,Sucesso,
+9DS8SBCC,415,Leticia Castro,2026-09-20,08:50:38,36,Pix,Presencial,Cartão,Thiago Oliveira,Aprovada,Sucesso,
+N54AXE82,423,Natalia Ramos,2026-09-18,11:56:29,"737,5",Cartão de Débito,Presencial,Cartão,Mercado São José,Negada,Falta de saldo,
+FXOYX5AV,402,Rafael Lima,2026-09-22,12:15:20,814,Pix,Presencial,Cartão,Beatriz Martins,Aprovada,Sucesso,
+QURJUFVJ,433,Renata Araujo,2026-09-22,20:05:05,"168,9",Pix,Online,Device,Felipe Rocha,Negada,Dispositivo não cadastrado,e190283910amks019
+0OLWD3IO,382,Igor Machado,2026-09-23,08:53:50,504,Pix,Presencial,Cartão,Pedro Henrique,Aprovada,Sucesso,
+2EVDJIU4,421,Bianca Freitas,2026-09-18,20:21:42,683,Pix,Presencial,Cartão,Renata Souza,Aprovada,Sucesso,
+ALQ20GPR,425,Mariana Lima,2026-09-20,19:03:10,63,Cartão de Débito,Presencial,Cartão,Supermercado Extra,Aprovada,Sucesso,
+VVNP991F,415,Leticia Castro,2026-09-21,14:32:05,260,Cartão de Crédito,Online,Device,Restaurante Saboroso,Aprovada,Sucesso,r910283910amkz912
+ZATTNIO6,395,Olivia Rocha,2026-09-17,19:48:55,822,Cartão de Débito,Online,Device,Padaria Central,Negada,Dispositivo não cadastrado,c190283910amkz912
+PTNK8IKP,350,Ana Silva,2026-09-21,11:14:31,"673,49",Cartão de Débito,Online,Device,Padaria Central,Negada,Dispositivo não cadastrado,a190283910amks019
+359N95U5,380,Karen Alves,2026-09-18,12:27:48,"560,99",Pix,Online,Device,Juliana Mendes,Negada,Falta de saldo,v910283910amks019
+1D6FTBV6,412,Matheus Correia,2026-09-21,23:36:31,"518,99",Cartão de Débito,Online,Device,Padaria Central,Aprovada,Sucesso,q910283910amks019
+MK2IRAXS,350,Ana Silva,2026-09-23,09:14:08,"985,4",Pix,Online,Device,Rafael Almeida,Aprovada,Sucesso,a9283d9gn0sakfadm
+2SCXYCLI,350,Ana Silva,2026-09-23,09:16:21,"972,8",Pix,Online,Device,Rafael Almeida,Aprovada,Sucesso,a9283d9gn0sakfadm
+25M0GW5S,350,Ana Silva,2026-09-23,09:18:03,"991,1",Pix,Online,Device,Rafael Almeida,Aprovada,Sucesso,a9283d9gn0sakfadm
+UPFJD8S2,350,Ana Silva,2026-09-23,09:20:47,"980,7",Pix,Online,Device,Rafael Almeida,Aprovada,Sucesso,a9283d9gn0sakfadm
+17CJ1GQS,399,Carlos Eduardo,2026-09-23,10:42:11,"799,99",Pix,Online,Device,Mercado Aurora,Aprovada,Sucesso,e910283910amks019
+QCGVJIXF,399,Carlos Eduardo,2026-09-23,10:44:02,"799,99",Pix,Online,Device,Mercado Aurora,Aprovada,Sucesso,e910283910amks019
+ICTTJ4US,399,Carlos Eduardo,2026-09-23,10:46:19,"799,99",Pix,Online,Device,Mercado Aurora,Negada,Falta de saldo,e910283910amks019
+UHAX3CY4,410,Gustavo Cardoso,2026-09-23,02:11:44,640,Pix,Online,Device,Loja ByteMix,Aprovada,Sucesso,m910283910ak0192a
+P7PU2SZC,410,Gustavo Cardoso,2026-09-23,02:14:18,640,Pix,Online,Device,Loja ByteMix,Aprovada,Sucesso,m910283910ak0192a
+A8KQMC6Q,410,Gustavo Cardoso,2026-09-23,02:17:02,640,Pix,Online,Device,Loja ByteMix,Aprovada,Sucesso,m910283910ak0192a
+18RMBMEX,420,Lucas Barros,2026-09-23,23:54:37,1180,Pix,Online,Device,Camila Nunes,Aprovada,Sucesso,o910283910amks019
+YMD601YB,382,Igor Machado,2026-09-22,18:07:11,"1249,9",Pix,Online,Device,Beatriz Martins,Negada,Limite Pix excedido,b910283910amkz912
+VA38T5WP,382,Igor Machado,2026-09-22,18:09:02,"1249,9",Pix,Online,Device,Beatriz Martins,Aprovada,Sucesso,b910283910amkz912
+WVQSI3C7,382,Igor Machado,2026-09-22,18:10:36,"1249,9",Pix,Online,Device,Beatriz Martins,Aprovada,Sucesso,b910283910amkz912
+TR7KDEO3,400,Fernanda Lima,2026-09-23,12:31:05,410,Pix,Online,Device,Juliana Mendes,Aprovada,Sucesso,r910283910amkz912
+CIZX8HPV,400,Fernanda Lima,2026-09-23,12:33:12,395,Pix,Online,Device,Mercado Bom Vizinho,Aprovada,Sucesso,r910283910amkz912
+N7EDA3PM,400,Fernanda Lima,2026-09-23,12:35:19,420,Pix,Online,Device,Lucas Andrade,Aprovada,Sucesso,r910283910amkz912
+A9IDLJDM,400,Fernanda Lima,2026-09-23,12:38:01,399,Pix,Online,Device,Petshop Ponto Verde,Aprovada,Sucesso,r910283910amkz912
+RKV6WF3Z,395,Olivia Rocha,2026-09-22,15:20:44,999,Pix,Online,Device,Renata Souza,Aprovada,Sucesso,w910283910amkz912
+9IR7R5U5,395,Olivia Rocha,2026-09-22,15:25:02,999,Pix,Online,Device,Renata Souza,Aprovada,Sucesso,w910283910amkz912
+FFO49L4M,395,Olivia Rocha,2026-09-22,15:29:31,999,Pix,Online,Device,Renata Souza,Aprovada,Sucesso,w910283910amkz912
+CPZXMJ2Q,405,Camila Almeida,2026-09-22,16:14:09,2870,Cartão de Crédito,Online,Device,Eletronix Curitiba,Aprovada,Sucesso,p29103810kas9102a
+VWWYNLVH,405,Camila Almeida,2026-09-22,16:19:21,2640,Cartão de Crédito,Online,Device,Boutique Vila Nova,Aprovada,Sucesso,p29103810kas9102a
+QNF4QONG,405,Camila Almeida,2026-09-22,16:25:43,2190,Cartão de Crédito,Online,Device,Livraria Horizonte,Aprovada,Sucesso,p29103810kas9102a
+PI3IJDBH,411,Patricia Teixeira,2026-09-22,08:12:15,680,Boleto,Online,Device,Cobrança Energia Sul,Aprovada,Sucesso,a918203910amkz912
+FI7HM3H0,411,Patricia Teixeira,2026-09-22,08:16:07,675,Boleto,Online,Device,Cobrança Telefonia Nova,Aprovada,Sucesso,a918203910amkz912
+TSC7TJC6,411,Patricia Teixeira,2026-09-22,08:19:55,680,Boleto,Online,Device,Cobrança Internet Viva,Aprovada,Sucesso,a918203910amkz912
+BZHEFLOH,388,Julia Gomes,2026-09-23,07:41:13,520,Pix,Online,Device,Rafael Almeida,Negada,Dispositivo não cadastrado,m918203ak102lsak8
+31P4CTYO,392,Eduardo Pereira,2026-09-23,07:43:27,780,Pix,Online,Device,Mercado Aurora,Negada,Dispositivo não cadastrado,k910283910amkz912
+A96K5EDR,417,Aline Moreira,2026-09-23,11:06:39,310,Cartão de Débito,Online,Device,Supermercado Extra,Negada,Dispositivo não cadastrado,d910283910amks019
+71KDZDWK,423,Natalia Ramos,2026-09-23,11:09:02,860,Cartão de Crédito,Online,Device,Shopee,Negada,Dispositivo não cadastrado,k910283910amkz912
+O9CPIGLL,429,Carolina Pereira,2026-09-23,17:22:14,1290,Pix,Online,Device,Renata Souza,Negada,Dispositivo não cadastrado,n190283910amks019
+024Z5C9Q,436,Victor Cunha,2026-09-23,17:24:46,1290,Pix,Online,Device,Renata Souza,Negada,Dispositivo não cadastrado,u190283910amks019
+2UCR8PY0,443,Debora Marques,2026-09-23,21:13:40,460,Cartão de Crédito,Online,Device,Kabum,Negada,Dispositivo não cadastrado,f819203ka012lsak9
+R71GDYTZ,450,Murilo Ramos,2026-09-23,21:17:58,1550,Pix,Online,Device,Loja ByteMix,Negada,Dispositivo não cadastrado,n910283910amks019
+D839T1G2,351,Daniela Costa,2026-09-22,09:08:14,"74,9",Pix,Online,Device,Casa do Café Central,Aprovada,Sucesso,f819203ka012lsak9
+S8YO2KFW,355,Nicolas Martins,2026-09-22,09:17:06,"132,4",Cartão de Débito,Presencial,Cartão,Padaria Bela Manhã,Aprovada,Sucesso,
+C114QY5D,361,Gabriel Santos,2026-09-22,10:03:55,58,Pix,Online,Device,Marina Lopes,Aprovada,Sucesso,x019283ka9102mzk9
+43YW2S0M,366,Helena Oliveira,2026-09-22,10:21:27,"215,35",Cartão de Crédito,Presencial,Cartão,Oficina Nova Rota,Aprovada,Sucesso,
+MAV4VYWZ,370,Bruno Souza,2026-09-22,10:48:39,"189,9",Pix,Online,Device,Flor & Casa,Aprovada,Sucesso,m918203ak102lsak8
+PQZVQ1FO,375,Mariana Ribeiro,2026-09-22,11:16:42,"92,7",Cartão de Débito,Presencial,Cartão,Mercado Bom Vizinho,Aprovada,Sucesso,
+SNG5XEU3,380,Karen Alves,2026-09-22,11:38:12,540,Pix,Online,Device,Felipe Rocha,Aprovada,Sucesso,v910283910amks019
+8E279P7Z,390,Lucas Fernandes,2026-09-22,13:09:34,"327,55",Cartão de Crédito,Online,Device,Restaurante Saboroso,Aprovada,Sucesso,k910283910amkz912
+0UGJ5DSF,401,Amanda Barbosa,2026-09-22,13:24:18,445,Pix,Online,Device,Marina Lopes,Aprovada,Sucesso,k82f91m3p0slq19a2
+J6IX6LD1,402,Rafael Lima,2026-09-22,13:41:03,"128,8",Pix,Online,Device,Mercado Aurora,Aprovada,Sucesso,b491a82m19sklp029
+RB8IY09R,403,Juliana Martins,2026-09-22,14:18:27,760,Pix,Online,Device,Thiago Oliveira,Aprovada,Sucesso,x918239ak102mzx91
+XRWFMYTU,404,Thiago Rocha,2026-09-22,14:26:55,"86,4",Cartão de Débito,Presencial,Cartão,Posto Ipiranga,Aprovada,Sucesso,
+F0POAZ6R,406,Leonardo Castro,2026-09-22,14:52:09,"118,3",Pix,Online,Device,Petshop Ponto Verde,Aprovada,Sucesso,z910283mka9012391
+APSU4RNK,407,Vanessa Carvalho,2026-09-22,15:04:21,960,Pix,Online,Device,Lucas Andrade,Aprovada,Sucesso,c910283910amks012
+A321KIX1,408,Rodrigo Ribeiro,2026-09-22,15:39:46,205,Cartão de Crédito,Online,Device,Eletronix Curitiba,Aprovada,Sucesso,v91028391ak0291am
+L1BIO94R,390,Lucas Fernandes,2026-09-23,10:12:10,680,Cartão de Crédito,Presencial,Cartão,Restaurante Saboroso,Negada,Senha incorreta,
+WRS18ANC,390,Lucas Fernandes,2026-09-23,10:13:52,680,Cartão de Crédito,Presencial,Cartão,Restaurante Saboroso,Negada,Senha incorreta,
+A2E7YH9X,390,Lucas Fernandes,2026-09-23,10:15:21,680,Cartão de Crédito,Presencial,Cartão,Restaurante Saboroso,Aprovada,Sucesso,
+SWREUY3Z,390,Lucas Fernandes,2026-09-23,10:16:47,685,Cartão de Crédito,Presencial,Cartão,Restaurante Saboroso,Aprovada,Sucesso,
+Y62TBCDX,355,Nicolas Martins,2026-09-23,14:27:05,"249,9",Cartão de Débito,Presencial,Cartão,Padaria Bela Manhã,Negada,Senha incorreta,
+HVEVCZEL,355,Nicolas Martins,2026-09-23,14:28:23,"249,9",Cartão de Débito,Presencial,Cartão,Padaria Bela Manhã,Negada,Senha incorreta,
+4NBKJYA7,355,Nicolas Martins,2026-09-23,14:29:46,"249,9",Cartão de Débito,Presencial,Cartão,Padaria Bela Manhã,Negada,Senha incorreta,
+1EAHMJXR,355,Nicolas Martins,2026-09-23,14:32:08,"249,9",Cartão de Débito,Presencial,Cartão,Padaria Bela Manhã,Aprovada,Sucesso,
+4JSWVSGG,375,Mariana Ribeiro,2026-09-23,16:03:44,"119,9",Cartão de Crédito,Presencial,Cartão,Mercado Bom Vizinho,Negada,Senha incorreta,
+K29UP1ZE,375,Mariana Ribeiro,2026-09-23,16:15:06,"87,4",Cartão de Crédito,Presencial,Cartão,Mercado Bom Vizinho,Aprovada,Sucesso,
+WIZO59FA,404,Thiago Rocha,2026-09-23,18:44:02,1490,Cartão de Crédito,Presencial,Cartão,Eletronix Curitiba,Negada,Senha incorreta,
+WN0A9P54,404,Thiago Rocha,2026-09-23,18:46:08,1490,Cartão de Crédito,Presencial,Cartão,Eletronix Curitiba,Negada,Senha incorreta,
+MBQU0MIR,404,Thiago Rocha,2026-09-23,18:48:21,1390,Cartão de Crédito,Presencial,Cartão,Eletronix Curitiba,Aprovada,Sucesso,
+YNWN2XNF,404,Thiago Rocha,2026-09-23,18:49:44,1490,Cartão de Crédito,Presencial,Cartão,Eletronix Curitiba,Negada,Senha incorreta,
+VPGBGBXO,361,Gabriel Santos,2026-09-23,08:21:15,"64,9",Cartão de Débito,Presencial,Cartão,Padaria Bela Manhã,Aprovada,Sucesso,
+U7883Z2B,366,Helena Oliveira,2026-09-23,09:47:38,310,Cartão de Crédito,Presencial,Cartão,Oficina Nova Rota,Aprovada,Sucesso,
+EEILTF80,380,Karen Alves,2026-09-23,11:35:41,"189,9",Pix,Online,Device,Marina Lopes,Aprovada,Sucesso,v910283910amks019
+YTW6CGG0,401,Amanda Barbosa,2026-09-23,12:04:29,920,Pix,Online,Device,Mercado Aurora,Aprovada,Sucesso,k82f91m3p0slq19a2
+FNRWOI6O,406,Leonardo Castro,2026-09-23,13:16:55,"78,5",Cartão de Crédito,Presencial,Cartão,Petshop Ponto Verde,Aprovada,Sucesso,
+OA0EWWPU,413,Beatriz Cavalcanti,2026-09-23,17:08:22,1740,Pix,Online,Device,Thiago Oliveira,Aprovada,Sucesso,w910283910amkz912
+P7VX1HH7,366,Helena Oliveira,2026-09-23,15:18:04,420,Cartão de Crédito,Presencial,Cartão,Oficina Nova Rota,Negada,Senha incorreta,
+FAV6S3GP,366,Helena Oliveira,2026-09-23,15:19:11,420,Cartão de Crédito,Presencial,Cartão,Oficina Nova Rota,Negada,Senha incorreta,
+1K8TCZTL,366,Helena Oliveira,2026-09-23,15:20:20,420,Cartão de Crédito,Presencial,Cartão,Oficina Nova Rota,Negada,Cartão bloqueado,
+LJ95KO3D,421,Bianca Freitas,2026-09-23,19:42:31,890,Cartão de Débito,Presencial,Cartão,Mercado Bom Vizinho,Negada,Senha incorreta,
+9NLIE0L8,421,Bianca Freitas,2026-09-23,19:43:54,890,Cartão de Débito,Presencial,Cartão,Mercado Bom Vizinho,Negada,Senha incorreta,
+DQVQ7C2A,421,Bianca Freitas,2026-09-23,19:45:12,905,Cartão de Débito,Presencial,Cartão,Mercado Bom Vizinho,Negada,Cartão bloqueado,
+2S2Y81KM,350,Ana Silva,2026-09-24,09:18:04,320,Cartão de Débito,Presencial,Cartão,Mercado Aurora,Negada,Senha incorreta,
+1XFWATFY,350,Ana Silva,2026-09-24,09:19:15,320,Cartão de Débito,Presencial,Cartão,Mercado Aurora,Negada,Senha incorreta,
+4PQY9BSH,350,Ana Silva,2026-09-24,09:20:24,320,Cartão de Débito,Presencial,Cartão,Mercado Aurora,Negada,Cartão bloqueado,
+FLFZ1W29,350,Ana Silva,2026-09-24,09:36:04,"95,7",Cartão de Débito,Presencial,Cartão,Mercado Aurora,Aprovada,Sucesso,
+M04BVG50,361,Gabriel Santos,2026-09-24,11:43:12,780,Cartão de Crédito,Presencial,Cartão,Eletronix Curitiba,Negada,Senha incorreta,
+DNG3TSOS,361,Gabriel Santos,2026-09-24,11:44:32,780,Cartão de Crédito,Presencial,Cartão,Eletronix Curitiba,Aprovada,Sucesso,
+0K661P9H,361,Gabriel Santos,2026-09-24,11:45:41,810,Cartão de Crédito,Presencial,Cartão,Eletronix Curitiba,Negada,Senha incorreta,
+G7826Q4W,361,Gabriel Santos,2026-09-24,11:47:02,810,Cartão de Crédito,Presencial,Cartão,Eletronix Curitiba,Negada,Cartão bloqueado,
+9GEX5B9B,375,Mariana Ribeiro,2026-09-24,16:22:15,"139,9",Cartão de Débito,Presencial,Cartão,Padaria Bela Manhã,Negada,Senha incorreta,
+AK4SS4I2,375,Mariana Ribeiro,2026-09-24,16:35:48,75,Cartão de Débito,Presencial,Cartão,Padaria Bela Manhã,Aprovada,Sucesso,
+Y90JO9UY,380,Karen Alves,2026-09-24,08:07:10,990,Pix,Online,Device,Rafael Almeida,Aprovada,Sucesso,v910283910amks019
+TDM9HBC7,380,Karen Alves,2026-09-24,08:08:33,995,Pix,Online,Device,Rafael Almeida,Aprovada,Sucesso,v910283910amks019
+CAS4WUT0,380,Karen Alves,2026-09-24,08:10:14,992,Pix,Online,Device,Rafael Almeida,Aprovada,Sucesso,v910283910amks019
+B2VQ5ANP,380,Karen Alves,2026-09-24,08:11:29,998,Pix,Online,Device,Rafael Almeida,Aprovada,Sucesso,v910283910amks019
+WYCUJ1LJ,390,Lucas Fernandes,2026-09-24,12:18:27,1499,Pix,Online,Device,Mercado Aurora,Aprovada,Sucesso,k910283910amkz912
+4VLDOZW0,390,Lucas Fernandes,2026-09-24,12:20:06,1499,Pix,Online,Device,Mercado Aurora,Aprovada,Sucesso,k910283910amkz912
+93QL82UB,390,Lucas Fernandes,2026-09-24,12:22:38,1499,Pix,Online,Device,Mercado Aurora,Negada,Limite Pix excedido,k910283910amkz912
+JUT8927A,401,Amanda Barbosa,2026-09-24,23:51:09,620,Pix,Online,Device,Loja ByteMix,Aprovada,Sucesso,k82f91m3p0slq19a2
+DZCHK31E,401,Amanda Barbosa,2026-09-24,23:53:01,620,Pix,Online,Device,Loja ByteMix,Aprovada,Sucesso,k82f91m3p0slq19a2
+HA8OLZ3D,401,Amanda Barbosa,2026-09-25,00:02:14,620,Pix,Online,Device,Loja ByteMix,Aprovada,Sucesso,k82f91m3p0slq19a2
+8TMJ7OA3,406,Leonardo Castro,2026-09-24,13:14:07,920,Pix,Online,Device,Mercado Bom Vizinho,Negada,Dispositivo não cadastrado,a918203910amkz912
+858ETHHX,413,Beatriz Cavalcanti,2026-09-24,14:52:18,1280,Pix,Online,Device,Renata Souza,Negada,Dispositivo não cadastrado,i910283910amkz912
+3WGI6VCM,419,Fernanda Monteiro,2026-09-24,17:33:40,630,Pix,Online,Device,Petshop Ponto Verde,Negada,Dispositivo não cadastrado,g910283910amks019
+643JAYOK,425,Mariana Lima,2026-09-24,18:11:22,2170,Pix,Online,Device,Eletronix Curitiba,Negada,Dispositivo não cadastrado,c190283910amkz912
+HPX1Q9N2,429,Carolina Pereira,2026-09-24,21:45:11,440,Pix,Online,Device,Camila Nunes,Negada,Dispositivo não cadastrado,q190283910amks019
+QUFEKPDO,443,Debora Marques,2026-09-25,01:12:36,980,Cartão de Crédito,Online,Device,Loja ByteMix,Negada,Dispositivo não cadastrado,z901823mk102lsak0
+T9SOFW3F,366,Helena Oliveira,2026-09-24,10:16:09,"245,7",Pix,Online,Device,Marina Lopes,Aprovada,Sucesso,p91028310amks019a
+1BKL6FOK,395,Olivia Rocha,2026-09-24,15:06:31,"115,4",Cartão de Crédito,Presencial,Cartão,Casa do Café Central,Aprovada,Sucesso,
+Q3RJNFRH,407,Vanessa Carvalho,2026-09-24,16:28:52,360,Pix,Online,Device,Juliana Mendes,Aprovada,Sucesso,c910283910amks012
+LAFAGCZM,412,Matheus Correia,2026-09-24,18:22:17,"88,9",Cartão de Débito,Presencial,Cartão,Mercado Bom Vizinho,Aprovada,Sucesso,
+B8USIFTB,403,Juliana Martins,2026-09-24,09:42:03,2350,Cartão de Crédito,Online,Device,Eletronix Curitiba,Aprovada,Sucesso,x918239ak102mzx91
+X4P158YN,403,Juliana Martins,2026-09-24,09:44:41,2280,Cartão de Crédito,Online,Device,Boutique Vila Nova,Aprovada,Sucesso,x918239ak102mzx91
+MS0CGB3N,403,Juliana Martins,2026-09-24,09:47:09,2410,Cartão de Crédito,Online,Device,Livraria Horizonte,Aprovada,Sucesso,x918239ak102mzx91
+HT43YIKT,409,Larissa Mendes,2026-09-24,10:55:16,510,Boleto,Online,Device,Cobrança Energia Sul,Aprovada,Sucesso,n910283910amks019
+HLIAC3KW,409,Larissa Mendes,2026-09-24,10:58:02,510,Boleto,Online,Device,Cobrança Energia Sul,Aprovada,Sucesso,n910283910amks019
+D9TN9U4H,409,Larissa Mendes,2026-09-24,11:01:17,510,Boleto,Online,Device,Cobrança Energia Sul,Aprovada,Sucesso,n910283910amks019
+Q0J5MCY1,414,Diego Dias,2026-09-24,14:07:44,"129,9",Pix,Online,Device,Flor & Casa,Aprovada,Sucesso,e910283910amks019
+VHCVR4XE,416,Vinicius Fernandes,2026-09-24,15:19:33,840,Pix,Online,Device,Thiago Oliveira,Aprovada,Sucesso,t910283910amks019
+8YW81YQ4,418,Felipe Nunes,2026-09-24,16:38:05,"72,5",Cartão de Débito,Presencial,Cartão,Padaria Bela Manhã,Aprovada,Sucesso,
+OMSDX65E,420,Lucas Barros,2026-09-24,17:16:39,1750,Pix,Online,Device,Beatriz Martins,Aprovada,Sucesso,o910283910amks019
+S1DTFDNA,422,Gabriel Barbosa,2026-09-24,19:05:12,560,Cartão de Crédito,Presencial,Cartão,Oficina Nova Rota,Negada,Senha incorreta,
+VAXI8ILY,422,Gabriel Barbosa,2026-09-24,19:06:29,560,Cartão de Crédito,Presencial,Cartão,Oficina Nova Rota,Negada,Senha incorreta,
+I9ET7Y7W,422,Gabriel Barbosa,2026-09-24,19:07:40,560,Cartão de Crédito,Presencial,Cartão,Oficina Nova Rota,Negada,Cartão bloqueado,
+WG1ENODK,424,Andre Vieira,2026-09-24,20:12:44,780,Pix,Online,Device,Mercado Aurora,Aprovada,Sucesso,d910283910amks019
+FAWSQIC4,424,Andre Vieira,2026-09-24,20:14:03,780,Pix,Online,Device,Mercado Aurora,Negada,Falta de saldo,d910283910amks019
+XSP720IV,425,Mariana Lima,2026-09-24,20:26:17,780,Pix,Online,Device,Mercado Aurora,Aprovada,Sucesso,f910283910amkz912
+605JB8RY,425,Mariana Lima,2026-09-24,20:29:02,780,Pix,Online,Device,Mercado Aurora,Aprovada,Sucesso,f910283910amkz912
+EDWAD962,436,Victor Cunha,2026-09-24,22:41:18,1090,Pix,Online,Device,Rafael Almeida,Aprovada,Sucesso,n190283910amks019
+2KJPLMYA,450,Murilo Ramos,2026-09-25,02:08:44,330,Pix,Online,Device,Loja ByteMix,Aprovada,Sucesso,d290283910amks019
+QVILVB9G,450,Murilo Ramos,2026-09-25,09:17:29,"66,4",Cartão de Débito,Presencial,Cartão,Mercado Bom Vizinho,Aprovada,Sucesso,
